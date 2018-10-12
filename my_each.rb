@@ -7,7 +7,6 @@ while i < words.length
   i += 1
 end 
   words
-
 else 
 end
 end 
