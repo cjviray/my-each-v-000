@@ -9,6 +9,5 @@ end
   words
 
 else 
-  puts "No block was given."
 end
 end 
