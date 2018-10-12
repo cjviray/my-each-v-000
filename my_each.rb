@@ -9,5 +9,5 @@ end
   words
 
 else 
-  puts "There is no collection."
+  puts "No block was given."
 end
