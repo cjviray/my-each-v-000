@@ -9,5 +9,5 @@ end
   words
 
 else 
-  puts "There is no collection"
+  puts "There is no collection."
 end
